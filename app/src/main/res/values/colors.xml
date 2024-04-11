@@ -8,4 +8,8 @@
     <color name="amarelo_mostarda">#F5C828</color>
     <color name="amarelo">#FFDF01</color>
     <color name="ciano">#58EED3</color>
+    <color name="laranja_aviso">#40F5C828</color>
+     <color name="laranja_categoria">#FEA200</color>
+    <color name="cinza_stroke_caixa_texto">#E4E4E4</color>
+     <color name="cinza_stroke_spinner">#A8A8A9</color>
 </resources>
