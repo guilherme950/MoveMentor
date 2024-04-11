@@ -66,7 +66,7 @@
             android:id="@+id/editTextText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="10dp"
             android:width="334dp"
             android:height="50dp"
             android:background="@drawable/background_input_branco"
